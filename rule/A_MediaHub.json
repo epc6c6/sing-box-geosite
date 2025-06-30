@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aca.misakaf.org",
+        "cavps.eu.org",
+        "ehk1.cn2gias.uk",
+        "emby.as174.de",
+        "emby.barryluo.top",
+        "emby.cn2gias.uk",
+        "emby.pppp.us.kg",
+        "hxd.as174.de",
+        "lite.saturday.video",
+        "pe.cn2gias.uk",
+        "prehk.cn2gias.uk",
+        "prekr.cn2gias.uk",
+        "stream1.misakaf.org",
+        "stream2.misakaf.org",
+        "stream3.misakaf.org",
+        "stream4.misakaf.org",
+        "stream5.misakaf.org",
+        "tdck.fun",
+        "us.nanflix.net",
+        "wmxz.567996.xyz"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cherry-pornemby.top",
+        "tanhuatv.site",
+        "zox.show"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "141.11.175.105/32",
+        "154.12.53.34/32",
+        "185.163.116.145/32",
+        "192.99.35.111/32",
+        "38.150.0.75/32",
+        "47.243.4.140/32",
+        "50.114.55.29/32"
+      ]
+    }
+  ],
+  "version": 2
+}
